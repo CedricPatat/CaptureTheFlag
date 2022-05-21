@@ -44,6 +44,7 @@ def BruteForceCaesar(input:str, key_word=""):
             solutions.append(decoded + '\n')
     return solutions
 
+
 ## Main
 
 if __name__ == "__main__":
