@@ -4,7 +4,7 @@ The objective of this challenge is to obtain Trinity's password.
 
 ---
 The command to connect is : 
-`$ ssh -l morpheus -p 10089 challenges.ringzer0team.com`.
+`$ ssh -l morpheus -p 10089 challenges.ringzer0team.com`. The password is: `VNZDDLq2x9qXCzVdABbR1HOtz`.
 
 We search the system for all the elements relating to Trinity with the command:
 `$ grep "trinity" -R /etc`.
